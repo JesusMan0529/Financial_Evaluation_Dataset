@@ -1,0 +1,16 @@
+[
+  {
+    "source": "CFLUE-knowledge",
+    "url": "https://raw.githubusercontent.com/aliyun/cflue/ff28c38f9618b51b6747f275b09d24c14fe58509/README.md",
+    "file": "raw\\CFLUE\\README.md",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+  },
+  {
+    "source": "CFLUE-knowledge",
+    "url": "https://raw.githubusercontent.com/aliyun/cflue/ff28c38f9618b51b6747f275b09d24c14fe58509/data/knowledge/knowledge.json",
+    "file": "raw\\CFLUE\\data\\knowledge\\knowledge.json",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+  }
+]

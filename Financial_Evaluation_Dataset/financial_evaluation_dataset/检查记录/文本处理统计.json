@@ -1,0 +1,80 @@
+{
+  "requested_total": 35803,
+  "exported_total": 35803,
+  "tasks": {
+    "entity": {
+      "pool_rows": 10322,
+      "excluded": {
+        "country_only_as_economic_concept": 298,
+        "one_character_entity": 47
+      },
+      "requested": 8100,
+      "exported": 8100,
+      "shortfall": 0,
+      "source_counts": {
+        "CFSC": 8100
+      }
+    },
+    "event": {
+      "requested": 8100,
+      "exported": 8100,
+      "shortfall": 0,
+      "source_counts": {
+        "FEED": 8100
+      }
+    },
+    "relation": {
+      "pool_rows": 8284,
+      "excluded": {
+        "branch_activity_not_company_location": 28,
+        "missing_subject_or_object_evidence": 6
+      },
+      "requested": 6303,
+      "exported": 6303,
+      "shortfall": 0,
+      "source_counts": {
+        "FinCorpus.CN": 6303
+      }
+    },
+    "classification": {
+      "regulatory_evidence_pool": 1126,
+      "regulatory_selected": 200,
+      "requested": 6700,
+      "exported": 6700,
+      "shortfall": 0,
+      "source_counts": {
+        "CSRC": 200,
+        "FEED": 6500
+      }
+    },
+    "numeric": {
+      "document_groups": 1108,
+      "not_selected": {
+        "context_or_pattern_not_sufficient": 360309
+      },
+      "field_count": 8358,
+      "scope_unspecified": 8114,
+      "requested": 4000,
+      "exported": 4000,
+      "shortfall": 0,
+      "source_counts": {
+        "TigerBot-earning": 4000
+      }
+    },
+    "causal_opinion": {
+      "subtypes": {
+        "causal": 1300,
+        "opinion": 1300
+      },
+      "document_groups": 1473,
+      "requested": 2600,
+      "exported": 2600,
+      "shortfall": 0,
+      "source_counts": {
+        "TigerBot-research": 2600
+      }
+    }
+  },
+  "quality_status": "automated_content_checks_not_independent_gold",
+  "semantic_accuracy_or_f1": null
+}

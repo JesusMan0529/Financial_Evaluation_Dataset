@@ -1,0 +1,194 @@
+[
+  {
+    "source": "FIRE-Bench",
+    "url": "https://raw.githubusercontent.com/DXM-AGI/FIRE-Bench/2ac9034c22f0717365121f2ef01f87f6bd425f2f/dataset/FIRE/FIRE.json",
+    "file": "raw\\FIRE-Bench\\dataset\\FIRE\\FIRE.json",
+    "bytes": 35956421,
+    "sha256": "9d5721b552592db5a0faa32e5f5e4710deb6ad95de5ae7cb99b79e2cce76fed9",
+    "status": "downloaded"
+  },
+  {
+    "source": "FIRE-Bench",
+    "url": "https://raw.githubusercontent.com/DXM-AGI/FIRE-Bench/2ac9034c22f0717365121f2ef01f87f6bd425f2f/README.md",
+    "file": "raw\\FIRE-Bench\\README.md",
+    "bytes": 44232,
+    "sha256": "1077d0fd74767e42e61ebfa610417a4d53d1bbe95e35fcb7a74b5af58d619bbc",
+    "status": "downloaded"
+  },
+  {
+    "source": "FIRE-Bench",
+    "url": "https://raw.githubusercontent.com/DXM-AGI/FIRE-Bench/2ac9034c22f0717365121f2ef01f87f6bd425f2f/LICENSE",
+    "file": "raw\\FIRE-Bench\\LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/README.md",
+    "file": "raw\\FinanceIQ\\README.md",
+    "bytes": 33,
+    "sha256": "8739f354b75bf1aa6310a0ffac9b7dcafed012c42b771947e48b7f4da8b9d800",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E4%BF%9D%E9%99%A9%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BCCICE.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\保险从业资格CICE.csv",
+    "bytes": 1325,
+    "sha256": "eae3cb3db2b6ebca63bdb35498f8b907bd21645c0d874f61936957b20fff84a6",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E5%9F%BA%E9%87%91%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\基金从业资格.csv",
+    "bytes": 1690,
+    "sha256": "320f72b67df1ce3718409a78e2fb7a61e2a12edbad21bf97885d9031fea068d3",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E6%9C%9F%E8%B4%A7%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\期货从业资格.csv",
+    "bytes": 1688,
+    "sha256": "22c8d38879ef4a31c85434edc71406c3570757341e5c9762e9b4472f43b71513",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E6%B3%A8%E5%86%8C%E4%BC%9A%E8%AE%A1%E5%B8%88%EF%BC%88CPA%EF%BC%89.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\注册会计师（CPA）.csv",
+    "bytes": 2232,
+    "sha256": "794b83ec6fdd05ec5fc849d23aaeb08104033aef5501123f22500a50d1794ca6",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E7%90%86%E8%B4%A2%E8%A7%84%E5%88%92%E5%B8%88.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\理财规划师.csv",
+    "bytes": 1272,
+    "sha256": "4102a4ba5738eae9e5a2cfd9c574c63a6c989ae02f76251d49255da2ff20600d",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E7%A8%8E%E5%8A%A1%E5%B8%88.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\税务师.csv",
+    "bytes": 3027,
+    "sha256": "bb6f76e080fbd618139cf6a34af4fa9557b2442a73622be0e0076cee613312e6",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E7%B2%BE%E7%AE%97%E5%B8%88-%E9%87%91%E8%9E%8D%E6%95%B0%E5%AD%A6.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\精算师-金融数学.csv",
+    "bytes": 1293,
+    "sha256": "51b73d5a77ba21da3ee04c6d9063e6f4757f8c9a0d742263ca044fb76ee42104",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E7%BB%8F%E6%B5%8E%E5%B8%88.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\经济师.csv",
+    "bytes": 1178,
+    "sha256": "e744a9098ec7c3655e8276530f6eb2709ac7bd08b59614d8fb619143e7ec9b52",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E8%AF%81%E5%88%B8%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\证券从业资格.csv",
+    "bytes": 1629,
+    "sha256": "a974e6a67b0095987c772b8263eec22de403890e433a3eb2ecaec874e938f60a",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/dev/%E9%93%B6%E8%A1%8C%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\dev\\银行从业资格.csv",
+    "bytes": 1308,
+    "sha256": "ad7e02cabf7117b1852d3a353dbe560a52dfae85552c1dd0470a1ae97fc1f920",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E4%BF%9D%E9%99%A9%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BCCICE.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\保险从业资格CICE.csv",
+    "bytes": 270036,
+    "sha256": "25458c6e05b8be2b752a5fc7badf1d42f90e28ecad840c89a7dfb588e61d8427",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E5%9F%BA%E9%87%91%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\基金从业资格.csv",
+    "bytes": 302090,
+    "sha256": "6f9bdf5cdc993aa34d5104322fbbdd78cc9da0b150946b270a25591bfb4db365",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E6%9C%9F%E8%B4%A7%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\期货从业资格.csv",
+    "bytes": 138221,
+    "sha256": "c4fd130d86b0754eb41c9995b51eaf080c41b88d83197c739d9269e45a03eeef",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E6%B3%A8%E5%86%8C%E4%BC%9A%E8%AE%A1%E5%B8%88%EF%BC%88CPA%EF%BC%89.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\注册会计师（CPA）.csv",
+    "bytes": 563190,
+    "sha256": "6ce44bbf7186cfd130d4c1a6b9cd23a26555973caa6dc53a67e63fd84f3dbac2",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E7%90%86%E8%B4%A2%E8%A7%84%E5%88%92%E5%B8%88.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\理财规划师.csv",
+    "bytes": 88134,
+    "sha256": "daa9475a3be2410121baa105177f0c3bc3479625fdd93d3d91f5f8564e50d691",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E7%A8%8E%E5%8A%A1%E5%B8%88.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\税务师.csv",
+    "bytes": 236335,
+    "sha256": "31fc352333e5a2c2eeb61ecbbae9b01933890e7a3a177c5d3da96ca14127147b",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E7%B2%BE%E7%AE%97%E5%B8%88-%E9%87%91%E8%9E%8D%E6%95%B0%E5%AD%A6.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\精算师-金融数学.csv",
+    "bytes": 29306,
+    "sha256": "44cd664ba124dfb7158ca64cfaedc94e74d1f3c279092f2a7c6f999289a0cfed",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E7%BB%8F%E6%B5%8E%E5%B8%88.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\经济师.csv",
+    "bytes": 124951,
+    "sha256": "72e8818165706c24593976877570c34d8e19e590adbe46e36023343f692ea2d9",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E8%AF%81%E5%88%B8%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\证券从业资格.csv",
+    "bytes": 471390,
+    "sha256": "6121d13d64d691573633f188e616d869f610dbf68f622eaf46edf693132046f3",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinanceIQ",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ/resolve/fca1d9ceb6925041264d211b9ddf7264e8145248/data/test/%E9%93%B6%E8%A1%8C%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC.csv",
+    "file": "raw\\FinanceIQ\\data\\test\\银行从业资格.csv",
+    "bytes": 349974,
+    "sha256": "a087132762bba16854d100910399a1c7d73a6644b308be0fe4d471587cfd90f9",
+    "status": "downloaded"
+  }
+]

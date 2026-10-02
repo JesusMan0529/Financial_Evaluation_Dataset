@@ -1,0 +1,129 @@
+[
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/LICENSE",
+    "file": "raw\\FinCorpus.CN\\LICENSE",
+    "bytes": 1094,
+    "sha256": "7735771cbaf9bbaedc38935d08ae54b0f9ea0891d910bff6bb99e63e0e0dd8bc",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/entity_data/FinCorpus.CN/dev.json",
+    "file": "raw\\FinCorpus.CN\\entity_data\\FinCorpus.CN\\dev.json",
+    "bytes": 1621923,
+    "sha256": "8aff391eaf4d6d40856d6de22a60475d60854e533317cfd422d29f74a0991555",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/entity_data/FinCorpus.CN/test.json",
+    "file": "raw\\FinCorpus.CN\\entity_data\\FinCorpus.CN\\test.json",
+    "bytes": 1643174,
+    "sha256": "cb2ebb12ff6c6dd0bddc579411d33156a1cd813e215fd058d566fb5684e80f3e",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/entity_data/FinCorpus.CN/train.json",
+    "file": "raw\\FinCorpus.CN\\entity_data\\FinCorpus.CN\\train.json",
+    "bytes": 4725264,
+    "sha256": "7bb9fdb6cb4e524faf0b651106208983f85ea3bbec216480c1e9be3c4681ea24",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/readme.md",
+    "file": "raw\\FinCorpus.CN\\readme.md",
+    "bytes": 6945,
+    "sha256": "c0a55316ac6b5651cfd8295a8490a4e2ad32e1b8e10eccdcde6d2326c2fc4813",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/relation_data/FinCorpus.CN/dev.json",
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\dev.json",
+    "bytes": 1381050,
+    "sha256": "d049b2bc0e47d3e6abf0f9433edcda584fbc2987701537e001046ab88bd5b006",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/relation_data/FinCorpus.CN/entity.json",
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\entity.json",
+    "bytes": 120,
+    "sha256": "2535b53307e34bfcf5f62993343ced928a41127f1bf4436ba8ce1037be550a94",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/relation_data/FinCorpus.CN/rel.json",
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\rel.json",
+    "bytes": 160,
+    "sha256": "8d67b9b5f9dfd362055dd00aac4dad45c33995ea1e7719a0aedd6801278b00da",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/relation_data/FinCorpus.CN/test.json",
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\test.json",
+    "bytes": 1157267,
+    "sha256": "501b53c964ccfa8455a12c9b94d54cf0ae91e0e4d3a448f5f925440a49368c52",
+    "status": "downloaded"
+  },
+  {
+    "source": "FinCorpus.CN",
+    "url": "https://raw.githubusercontent.com/CGCL-codes/E-2CNN/02ad874d2e4b08f773711248ba9922ab05d95089/relation_data/FinCorpus.CN/train.json",
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\train.json",
+    "bytes": 4347375,
+    "sha256": "dbca456c18f3626077e57bad8156f7be7cce2085129764dbada009be1b94a24c",
+    "status": "downloaded"
+  },
+  {
+    "source": "TigerResearch/tigerbot-earning-plugin",
+    "url": "https://huggingface.co/datasets/TigerResearch/tigerbot-earning-plugin/resolve/75c0a58bbf9babc640dda2ce4f3ded9a3e9a9358/README.md",
+    "file": "raw\\TigerBot-earning\\README.md",
+    "bytes": 396,
+    "sha256": "0ede8ba0ed5ea7bd61f8e009e0284e709aa9b77d048b376920c18d691d7938e3",
+    "status": "downloaded"
+  },
+  {
+    "source": "TigerResearch/tigerbot-earning-plugin",
+    "url": "https://huggingface.co/datasets/TigerResearch/tigerbot-earning-plugin/resolve/75c0a58bbf9babc640dda2ce4f3ded9a3e9a9358/tigerbot-earning-plugin.json",
+    "file": "raw\\TigerBot-earning\\tigerbot-earning-plugin.json",
+    "bytes": 488217869,
+    "sha256": "bd45a5764ea98c11a5e4d5019bd7b761b45f77ce331c5710dcbd5c8a1ee46ec9",
+    "status": "downloaded"
+  },
+  {
+    "source": "TigerResearch/tigerbot-research-plugin",
+    "url": "https://huggingface.co/datasets/TigerResearch/tigerbot-research-plugin/resolve/434f01a05a200dc358fefe98abfb9ca47df2ee91/README.md",
+    "file": "raw\\TigerBot-research\\README.md",
+    "bytes": 391,
+    "sha256": "74b07089e01b6bb189a9305a8455855feae2ef59e9a1e6cb4382934a622bb21f",
+    "status": "downloaded"
+  },
+  {
+    "source": "TigerResearch/tigerbot-research-plugin",
+    "url": "https://huggingface.co/datasets/TigerResearch/tigerbot-research-plugin/resolve/434f01a05a200dc358fefe98abfb9ca47df2ee91/tigerbot-research-plugin.json",
+    "file": "raw\\TigerBot-research\\tigerbot-research-plugin.json",
+    "bytes": 696479412,
+    "sha256": "316be9a3d973c9c40764d8f172e2ca804999ee3122e498f3c2b392e171dafd3b",
+    "status": "downloaded"
+  },
+  {
+    "source": "TigerResearch/tigerbot-law-plugin",
+    "url": "https://huggingface.co/datasets/TigerResearch/tigerbot-law-plugin/resolve/d6837fa6596d8c9dd1aa051c07a046597b1d5092/README.md",
+    "file": "raw\\TigerBot-law\\README.md",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+  },
+  {
+    "source": "TigerResearch/tigerbot-law-plugin",
+    "url": "https://huggingface.co/datasets/TigerResearch/tigerbot-law-plugin/resolve/d6837fa6596d8c9dd1aa051c07a046597b1d5092/tigerbot-laws-plugin.json",
+    "file": "raw\\TigerBot-law\\tigerbot-laws-plugin.json",
+    "bytes": 29873122,
+    "sha256": "05acbabf210b40c6cda1cc1f11793de35d9e378750d449a6d6a3cbbf7734d088",
+    "status": "downloaded"
+  }
+]

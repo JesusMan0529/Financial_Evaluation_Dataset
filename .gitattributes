@@ -1,0 +1,5 @@
+* -text
+Financial_Evaluation_Dataset/financial_evaluation_dataset/原始出处/FEED.jsonl filter=lfs diff=lfs merge=lfs -text
+Financial_Evaluation_Dataset/financial_evaluation_dataset/原始出处/FinCorpus.jsonl filter=lfs diff=lfs merge=lfs -text
+Financial_Evaluation_Dataset/financial_evaluation_dataset/数据/知识与规则.csv filter=lfs diff=lfs merge=lfs -text
+Financial_Evaluation_Dataset/financial_evaluation_dataset/数据/知识与规则.jsonl filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,26 @@
+[
+  {
+    "source": "CFLUE-knowledge",
+    "url": "https://huggingface.co/datasets/DianJin/CFLUE/resolve/adcf2643b83dfaed79d43ed916716ac57e88544a/val.json",
+    "file": "raw\\CFLUE\\val.json",
+    "bytes": 3296298,
+    "sha256": "4af084f1137e18743fc1a71ae455e9c134641a7346a244c4b60c008d1fbb5c0f",
+    "status": "downloaded"
+  },
+  {
+    "source": "CFLUE-knowledge",
+    "url": "https://huggingface.co/datasets/DianJin/CFLUE/resolve/adcf2643b83dfaed79d43ed916716ac57e88544a/test.json",
+    "file": "raw\\CFLUE\\test.json",
+    "bytes": 3322213,
+    "sha256": "a7d59fe2cbf5b6a3f76ff463179e12ff7002338576874e74c0dfffbb45e224de",
+    "status": "downloaded"
+  },
+  {
+    "source": "CFLUE-knowledge",
+    "url": "https://huggingface.co/datasets/DianJin/CFLUE/resolve/adcf2643b83dfaed79d43ed916716ac57e88544a/train.json?download=true",
+    "file": "raw\\CFLUE\\train.json",
+    "bytes": 26287557,
+    "sha256": "d7fe97ef489ea6834189911d7d926a2a1c71bd226d75870263fd950815476f3d",
+    "status": "downloaded"
+  }
+]

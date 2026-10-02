@@ -1,0 +1,74 @@
+[
+  {
+    "file": "raw\\FinCorpus\\fin_exam.jsonl.gz",
+    "selected_original_records": 179643,
+    "full_download_bytes": 95822445,
+    "full_download_sha256": "827d95b8d01c3f308b29ce45a15a7a73091c00cbda3755b408abcf0d084dc1c7"
+  },
+  {
+    "file": "raw\\CFLUE\\train.json",
+    "selected_original_records": 26675,
+    "full_download_bytes": 26287557,
+    "full_download_sha256": "d7fe97ef489ea6834189911d7d926a2a1c71bd226d75870263fd950815476f3d"
+  },
+  {
+    "file": "raw\\CFLUE\\val.json",
+    "selected_original_records": 3331,
+    "full_download_bytes": 3296298,
+    "full_download_sha256": "4af084f1137e18743fc1a71ae455e9c134641a7346a244c4b60c008d1fbb5c0f"
+  },
+  {
+    "file": "raw\\CFLUE\\test.json",
+    "selected_original_records": 3315,
+    "full_download_bytes": 3322213,
+    "full_download_sha256": "a7d59fe2cbf5b6a3f76ff463179e12ff7002338576874e74c0dfffbb45e224de"
+  },
+  {
+    "file": "raw\\CFSC\\CFSC-NER\\CFSC-NER-Alldata.json",
+    "selected_original_records": 8100,
+    "full_download_bytes": 6799647,
+    "full_download_sha256": "dacc22eb1059c7fa46b10e4cfdce6a47074ff91d4cc02370d544d8fef85304f5"
+  },
+  {
+    "file": "raw\\FEED\\train.json.zip",
+    "selected_original_records": 14600,
+    "full_download_bytes": 25732705,
+    "full_download_sha256": "e858a8fd0d0fab74c04d5b89e65c001ac864fdc1ec7b116a41faa55e09e9f3e9"
+  },
+  {
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\dev.json",
+    "selected_original_records": 1297,
+    "full_download_bytes": 1381050,
+    "full_download_sha256": "d049b2bc0e47d3e6abf0f9433edcda584fbc2987701537e001046ab88bd5b006"
+  },
+  {
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\train.json",
+    "selected_original_records": 3789,
+    "full_download_bytes": 4347375,
+    "full_download_sha256": "dbca456c18f3626077e57bad8156f7be7cce2085129764dbada009be1b94a24c"
+  },
+  {
+    "file": "raw\\FinCorpus.CN\\relation_data\\FinCorpus.CN\\test.json",
+    "selected_original_records": 1217,
+    "full_download_bytes": 1157267,
+    "full_download_sha256": "501b53c964ccfa8455a12c9b94d54cf0ae91e0e4d3a448f5f925440a49368c52"
+  },
+  {
+    "file": "raw\\CSRC\\documents.jsonl",
+    "selected_original_records": 200,
+    "full_download_bytes": 20286819,
+    "full_download_sha256": "796543364b761fb780cde96108d4585f29fa6a773a155c92c884591117209744"
+  },
+  {
+    "file": "raw\\TigerBot-earning\\tigerbot-earning-plugin.json",
+    "selected_original_records": 4000,
+    "full_download_bytes": 488217869,
+    "full_download_sha256": "bd45a5764ea98c11a5e4d5019bd7b761b45f77ce331c5710dcbd5c8a1ee46ec9"
+  },
+  {
+    "file": "raw\\TigerBot-research\\tigerbot-research-plugin.json",
+    "selected_original_records": 2600,
+    "full_download_bytes": 696479412,
+    "full_download_sha256": "316be9a3d973c9c40764d8f172e2ca804999ee3122e498f3c2b392e171dafd3b"
+  }
+]

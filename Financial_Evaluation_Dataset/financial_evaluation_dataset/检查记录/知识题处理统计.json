@@ -1,0 +1,41 @@
+{
+  "requested": 203870,
+  "exported": 203870,
+  "shortfall": 0,
+  "counts": {
+    "input_records": 254043,
+    "repeated_option_text": 888,
+    "historical_law_or_institution_needs_date": 1309,
+    "no_complete_choice_options": 2603,
+    "dependent_question_without_case": 770,
+    "normalized_duplicate": 9192,
+    "consistent_duplicate_answer": 9095,
+    "nonconsecutive_options": 451,
+    "explicit_answer_explanation_disagreement": 343,
+    "ambiguous_ocr_digit": 2,
+    "explanation_depends_on_external_image": 1070,
+    "possible_missing_context": 514,
+    "replacement_character_in_content": 1,
+    "short_or_empty_stem": 1,
+    "likely_out_of_finance_scope": 20,
+    "no_readable_explanation": 16874,
+    "conflicting_released_answers": 96,
+    "usable_after_listed_checks": 220350
+  },
+  "source_counts": {
+    "FinCorpus": 176504,
+    "CFLUE": 27366
+  },
+  "module_counts": {
+    "金融产品与业务规则": 49223,
+    "金融法律法规题": 35703,
+    "金融资格考试题": 66156,
+    "规则应用案例题": 5552,
+    "会计与审计准则题": 37910,
+    "金融计算规则": 9159,
+    "时效与版本辨析题": 167
+  },
+  "missing_explanation": 0,
+  "quality_status": "automated_checks_not_independent_gold",
+  "measured_semantic_accuracy": null
+}

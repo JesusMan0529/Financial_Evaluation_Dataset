@@ -1,0 +1,103 @@
+{
+  "版本": "2026-10-02",
+  "英文代码中文对照": {
+    "Corporate": "公司",
+    "Stock": "股票",
+    "Market": "市场对象",
+    "Economy": "经济概念",
+    "EquityFreeze": "股权冻结",
+    "EquityRepurchase": "股份回购",
+    "EquityUnderweight": "股东减持",
+    "EquityOverweight": "股东增持",
+    "EquityPledge": "股权质押",
+    "CompanyName": "公司名称",
+    "HighestTradingPrice": "最高交易价",
+    "LowestTradingPrice": "最低交易价",
+    "RepurchasedShares": "回购股数",
+    "RepurchaseAmount": "回购金额",
+    "EquityHolder": "持有人",
+    "TradedShares": "交易股数",
+    "StartDate": "开始日期",
+    "EndDate": "结束日期",
+    "LaterHoldingShares": "事后持股数",
+    "PledgedShares": "本次质押股数",
+    "Pledgee": "质权人",
+    "TotalHoldingShares": "总持股数",
+    "TotalHoldingRatio": "总持股比例",
+    "TotalPledgedShares": "累计质押股数",
+    "ReleasedDate": "解除质押日期",
+    "AveragePrice": "均价",
+    "FrozeShares": "冻结股数",
+    "LegalInstitution": "司法机构",
+    "UnfrozeDate": "解冻日期",
+    "ClosingDate": "完成日期"
+  },
+  "实体范围": [
+    "Corporate",
+    "Stock",
+    "Market",
+    "Economy"
+  ],
+  "事件类型": [
+    "EquityFreeze",
+    "EquityRepurchase",
+    "EquityUnderweight",
+    "EquityOverweight",
+    "EquityPledge"
+  ],
+  "关系": [
+    "开展",
+    "拥有",
+    "位于",
+    "合作",
+    "投资",
+    "属于",
+    "应用于"
+  ],
+  "监管主题": [
+    "内幕交易",
+    "操纵市场",
+    "信息披露违法",
+    "虚假记载",
+    "未勤勉尽责",
+    "传播虚假信息"
+  ],
+  "数值字段": [
+    "field",
+    "value",
+    "unit",
+    "normalized_value",
+    "normalized_unit",
+    "subject",
+    "subject_evidence",
+    "period",
+    "period_basis",
+    "period_granularity",
+    "consolidation_scope",
+    "business_scope",
+    "measurement_basis",
+    "metric_context",
+    "start",
+    "end",
+    "text"
+  ],
+  "因果字段": [
+    "cause",
+    "effect",
+    "assertion",
+    "evidence"
+  ],
+  "观点字段": [
+    "holder",
+    "holder_evidence",
+    "target",
+    "target_evidence",
+    "claim",
+    "polarity",
+    "forecast_time"
+  ],
+  "缺失约定": "原文不明确时写未说明；不凭空补字段。",
+  "位置约定": "Python字符位置[start,end)，从0开始。",
+  "计数约定": "知识一题一条；文本一个输入和一个任务算一条，不按实体/事件/字段数拆计。",
+  "验收状态": "已完成程序检查；未完成独立专业金标验收。"
+}

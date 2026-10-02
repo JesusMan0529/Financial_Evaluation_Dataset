@@ -1,0 +1,58 @@
+[
+  {
+    "source": "FinCorpus-exam",
+    "url": "https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus/resolve/dae52562603787e65ee00cc95561bab4fa818d9b/data/fin_exam.jsonl.gz",
+    "file": "raw\\FinCorpus\\fin_exam.jsonl.gz",
+    "bytes": 95822445,
+    "sha256": "827d95b8d01c3f308b29ce45a15a7a73091c00cbda3755b408abcf0d084dc1c7",
+    "status": "downloaded"
+  },
+  {
+    "source": "FEED",
+    "url": "https://raw.githubusercontent.com/seukgcode/FEED/350704a2f463f7504ef0c17c57a8cf4ef7dcd8aa/train.json.zip",
+    "file": "raw\\FEED\\train.json.zip",
+    "bytes": 25732705,
+    "sha256": "e858a8fd0d0fab74c04d5b89e65c001ac864fdc1ec7b116a41faa55e09e9f3e9",
+    "status": "downloaded"
+  },
+  {
+    "source": "OEE-CFC",
+    "url": "https://raw.githubusercontent.com/view98/OEE-CFC/8d20c5c52fb5635b5c8930e924c1a25c6c6bed8f/data/OEE_CFC/train.jsonlines",
+    "file": "raw\\OEE-CFC\\train.jsonlines",
+    "bytes": 4973574,
+    "sha256": "f3404e238883a83b86d9c5903db4b89aa985b06e28a334eb9d200734d0b52580",
+    "status": "downloaded"
+  },
+  {
+    "source": "FEED",
+    "url": "https://raw.githubusercontent.com/seukgcode/FEED/350704a2f463f7504ef0c17c57a8cf4ef7dcd8aa/dev.json.zip",
+    "file": "raw\\FEED\\dev.json.zip",
+    "bytes": 3809544,
+    "sha256": "e050ef67e42b736d6b7a71e9b261370d9ab844ce36aaa7705b0ad8c7b4c6c178",
+    "status": "downloaded"
+  },
+  {
+    "source": "OEE-CFC",
+    "url": "https://raw.githubusercontent.com/view98/OEE-CFC/8d20c5c52fb5635b5c8930e924c1a25c6c6bed8f/data/OEE_CFC/dev.jsonlines",
+    "file": "raw\\OEE-CFC\\dev.jsonlines",
+    "bytes": 1475139,
+    "sha256": "3385cc34fe68529b05e19145d39929f3a475c8ed06cf6d0cf18c3d900198d036",
+    "status": "downloaded"
+  },
+  {
+    "source": "FEED",
+    "url": "https://raw.githubusercontent.com/seukgcode/FEED/350704a2f463f7504ef0c17c57a8cf4ef7dcd8aa/test.json.zip",
+    "file": "raw\\FEED\\test.json.zip",
+    "bytes": 3483376,
+    "sha256": "b8a65975c4fc597c77307616a4f341a6618aede015f12d55f79837dc85b5efd2",
+    "status": "downloaded"
+  },
+  {
+    "source": "OEE-CFC",
+    "url": "https://raw.githubusercontent.com/view98/OEE-CFC/8d20c5c52fb5635b5c8930e924c1a25c6c6bed8f/data/OEE_CFC/test.jsonlines",
+    "file": "raw\\OEE-CFC\\test.jsonlines",
+    "bytes": 729691,
+    "sha256": "23b877ae85f6e0b3cebd08b7a3e4e61a5c1b96c55c1df758dff1576e1335755b",
+    "status": "downloaded"
+  }
+]

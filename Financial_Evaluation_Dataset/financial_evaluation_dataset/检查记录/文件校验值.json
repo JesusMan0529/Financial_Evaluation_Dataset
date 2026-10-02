@@ -1,0 +1,347 @@
+[
+  {
+    "file": "原始出处/CFLUE.jsonl",
+    "bytes": 33080733,
+    "sha256": "b22eb1aecee155f72f90f16fd8264915a9b74f5610c1c4a5597beb06c494fb87"
+  },
+  {
+    "file": "原始出处/CFSC.jsonl",
+    "bytes": 5929019,
+    "sha256": "a50cf0c1928a71dd25c8ac154e3b235f26e167a20a40fbe5434f3fb802699dc8"
+  },
+  {
+    "file": "原始出处/CSRC.jsonl",
+    "bytes": 2405165,
+    "sha256": "5df6b369362d6e39ea66ccbb156002d07b67cdabc831e2e54b0bc0358801b53e"
+  },
+  {
+    "file": "原始出处/FEED.jsonl",
+    "bytes": 62449224,
+    "sha256": "991177777b5e8d074edb98b98414c27d467937024d4e1e73eaa74f3a0e61673c"
+  },
+  {
+    "file": "原始出处/FinCorpus.CN.jsonl",
+    "bytes": 7060744,
+    "sha256": "49927bd0ada2bfcbb51fa5d8e1b48f4a800216722e296c961b44baa7e7a7ba85"
+  },
+  {
+    "file": "原始出处/FinCorpus.jsonl",
+    "bytes": 177729138,
+    "sha256": "8acab080b69624b51f992d0496b7b612d6d9f36812c4c957a833642338360cdb"
+  },
+  {
+    "file": "原始出处/TigerBot-earning.jsonl",
+    "bytes": 3006652,
+    "sha256": "a3a9262aaa45c3ec344de91a4fe7786219b9a3d2c396f458d4979bd9c8adcac0"
+  },
+  {
+    "file": "原始出处/TigerBot-research.jsonl",
+    "bytes": 2529179,
+    "sha256": "ef49e11208af2fe22d025af03a8113c41f017d74243e77bca226bd4ef91be534"
+  },
+  {
+    "file": "复现代码/audit_content.py",
+    "bytes": 5025,
+    "sha256": "738641d21ecc5753bd7f1154f87a4a49163ad69b3fd78aaa40eeb2a87ae99aa3"
+  },
+  {
+    "file": "复现代码/build_candidates.py",
+    "bytes": 25646,
+    "sha256": "24889e421d5bec80e725d5f7f42d15f5e2bde1df9b7e5984e1f7d0db705be331"
+  },
+  {
+    "file": "复现代码/build_final_delivery.py",
+    "bytes": 9366,
+    "sha256": "3ea270dff38c73c0ecf0686c68b47e1ccc4e1d3a3d1fd9b08a02aee1dcc59f81"
+  },
+  {
+    "file": "复现代码/collect_csrc.py",
+    "bytes": 3384,
+    "sha256": "c24c38bb8f60d2bd05d1447141c68ecf21b14f25c9703e9e186236b2c58d8b0c"
+  },
+  {
+    "file": "复现代码/create_delivery_document.py",
+    "bytes": 18281,
+    "sha256": "4156ecd4217eaf7c382b83abb9038dd55e82806380216ca9676c54fe2f85fece"
+  },
+  {
+    "file": "复现代码/download_cflue.py",
+    "bytes": 750,
+    "sha256": "1c1dffa8cfa42c476846eb4986ca2ad39481e5f01054aded34ff3189e2ca6667"
+  },
+  {
+    "file": "复现代码/download_knowledge_extra.py",
+    "bytes": 1159,
+    "sha256": "4c1d27e9a6938000b41852f5944ebd04a9393317ec172e91850c0e3c0a1dd345"
+  },
+  {
+    "file": "复现代码/download_more.py",
+    "bytes": 1210,
+    "sha256": "0d22f55e75a814bc6b4ce3b3bc0504efa0db07c065d4ce04d7a2ebd9d9555abe"
+  },
+  {
+    "file": "复现代码/download_sources.py",
+    "bytes": 2429,
+    "sha256": "fdb7c2aee02d9c051a5116a45145050cff5e0f997a6868235c37c7e441907ee0"
+  },
+  {
+    "file": "复现代码/finish_delivery.py",
+    "bytes": 6112,
+    "sha256": "49f8b4baa2cd3e9ca83226e9d9372e1ca8c8978026613ba0e110f82644fe501a"
+  },
+  {
+    "file": "复现代码/prepare_knowledge.py",
+    "bytes": 8895,
+    "sha256": "f722924db03662ab7ea52d6b9aef68dbe16888176352e404f0fa28759179e90c"
+  },
+  {
+    "file": "复现代码/prepare_text.py",
+    "bytes": 25542,
+    "sha256": "690406f49db2b819d799766102ac383193e12510874db965b64a4c92c986c264"
+  },
+  {
+    "file": "复现代码/resume_downloads.py",
+    "bytes": 1057,
+    "sha256": "5e753803417fbc3260991fe6f04c5a159e630d08180d1f64160c8c3658428c29"
+  },
+  {
+    "file": "复现代码/test_delivery_processing.py",
+    "bytes": 4776,
+    "sha256": "98cf1427aaffa9660c29a40803344d53079b0acfe80046b380d7835cb534ad5e"
+  },
+  {
+    "file": "复现代码/test_processing.py",
+    "bytes": 2679,
+    "sha256": "417bc4086cb00a8463dfa666aa9784530045384a8d0e48bdf777772c0b97c774"
+  },
+  {
+    "file": "复现代码/validate_final_delivery.py",
+    "bytes": 13126,
+    "sha256": "4e4bdf25357275f870bd08a95e15853eb20b9bc585219d51e3fb6c8c7dabb0fb"
+  },
+  {
+    "file": "复现代码/检查交付包.py",
+    "bytes": 1312,
+    "sha256": "844143e775c2708287557b24d66229ebca8d6fcd2f1f32c04b52bd9713559fb0"
+  },
+  {
+    "file": "数据/事件抽取.csv",
+    "bytes": 19523983,
+    "sha256": "79719fa42f58a4972b253618d270a7356dae3f87bb456d8b939d4edb199d7dbe"
+  },
+  {
+    "file": "数据/事件抽取.jsonl",
+    "bytes": 33743145,
+    "sha256": "696335dc93f85ccb08e2045f87d5d125b1d517e6ef60533c0a982f255b51ca4c"
+  },
+  {
+    "file": "数据/先看样例.csv",
+    "bytes": 76547,
+    "sha256": "874b92bf1f99614f70cc4b1168079db120e26c012c7555b377ddd54aa410dfb9"
+  },
+  {
+    "file": "数据/关系抽取.csv",
+    "bytes": 3893398,
+    "sha256": "69ca7ebe972f7d22966882f2e36170ffd11aab3e0f74cdfae33c9f677c1d20a9"
+  },
+  {
+    "file": "数据/关系抽取.jsonl",
+    "bytes": 13428593,
+    "sha256": "6a5d2c4a8934bdc775b21561abd1e1999746a4ca37eb03c4132f1de72134add0"
+  },
+  {
+    "file": "数据/因果与观点.csv",
+    "bytes": 1592463,
+    "sha256": "d18bec7e2264e4698889a3a1687c8911409f963ae34e4de10d64195b3b274160"
+  },
+  {
+    "file": "数据/因果与观点.jsonl",
+    "bytes": 5524948,
+    "sha256": "022d620534c672c8b9e5ffe0ee2d29555e6b54ed28c4d93f2d93c168efafe61e"
+  },
+  {
+    "file": "数据/实体抽取.csv",
+    "bytes": 4045249,
+    "sha256": "8a77d97a0e350eecd120e07258b36f5e29f19cbd0dbddf65b67714fc9239f6b1"
+  },
+  {
+    "file": "数据/实体抽取.jsonl",
+    "bytes": 12310107,
+    "sha256": "58fefcbc7f048fb25a8c2bf21e448aa6c44f84e12dfd13246d9b65e320ea203c"
+  },
+  {
+    "file": "数据/数值与财务字段.csv",
+    "bytes": 3973955,
+    "sha256": "43c44521375ceb02382fb8e7a7147ad23ce540826dc04b169ea8953ac454103b"
+  },
+  {
+    "file": "数据/数值与财务字段.jsonl",
+    "bytes": 15087225,
+    "sha256": "cd0e7900bb71cd331c2c681f8b6a3103f7550d1fec2b888d39fc5defe85ac6fa"
+  },
+  {
+    "file": "数据/文本分类.csv",
+    "bytes": 19016333,
+    "sha256": "01fdd86e5542ce0dedbb276ece44e7b4c2bf07862685a1c3721d9f13aa8c16d1"
+  },
+  {
+    "file": "数据/文本分类.jsonl",
+    "bytes": 25620036,
+    "sha256": "66f97bf57de857554cfdf48d9d46750170503be269a4afd739de7318750da4c8"
+  },
+  {
+    "file": "数据/标签表.json",
+    "bytes": 2698,
+    "sha256": "9fb80b73e78934449bf193f51d6dfca152aeb78637df215ec28231a0a974e8a4"
+  },
+  {
+    "file": "数据/知识与规则.csv",
+    "bytes": 188159939,
+    "sha256": "6a7429832f300354fa5fa784da5a2332bf557790e8a10d06e208e6fd10839a2e"
+  },
+  {
+    "file": "数据/知识与规则.jsonl",
+    "bytes": 518948486,
+    "sha256": "4038c88ab892543ab3a54167078cc810e028cccf7e491c186fabc2df6761edac"
+  },
+  {
+    "file": "来源说明/CFLUE/README.md",
+    "bytes": 19393,
+    "sha256": "6e54ba50212044b0b123950c949a1794f56a8257f2748a7946cb1fa608525c2d"
+  },
+  {
+    "file": "来源说明/CFQA/LICENSE",
+    "bytes": 1061,
+    "sha256": "4e5a9270cfd7beef665b99c124262a0322e904bc7a9a0026a3ed61e9dfdd7f85"
+  },
+  {
+    "file": "来源说明/CFQA/README.md",
+    "bytes": 6566,
+    "sha256": "3b0be1cbacfe0f4d2d085de579c16a15f4eb566cd0c806a3caaa0e009a3f417f"
+  },
+  {
+    "file": "来源说明/CFSC/README.md",
+    "bytes": 5449,
+    "sha256": "accce3a0b0219c5364857c7246522d2bdc6014b18a31784d76fc24bddabcab68"
+  },
+  {
+    "file": "来源说明/download_manifest.json",
+    "bytes": 2405,
+    "sha256": "20d44e0c61dbb8754f7f186bae94e7a817165e3fc093fbae65f9b75c5355581e"
+  },
+  {
+    "file": "来源说明/download_manifest_cflue.json",
+    "bytes": 727,
+    "sha256": "a857541d87d13c2b983c06f9c68cc9fa1a6e117f2ffd44f98e00f31f6f6cbf08"
+  },
+  {
+    "file": "来源说明/download_manifest_cflue_knowledge.json",
+    "bytes": 1029,
+    "sha256": "358d3d4e208470aa5390d4d58b9466094680956c1c0f9c2bbd553919e199bd46"
+  },
+  {
+    "file": "来源说明/download_manifest_csrc.json",
+    "bytes": 33682,
+    "sha256": "211467c57195916132110eabe150168d8a20b8c24b49737514917ba017f40aac"
+  },
+  {
+    "file": "来源说明/download_manifest_extra.json",
+    "bytes": 3971,
+    "sha256": "3174a04eaa2ceb2dc4350ea0a575fd8616fdd7b79e9a875fd297e8776557ca13"
+  },
+  {
+    "file": "来源说明/download_manifest_knowledge_extra.json",
+    "bytes": 9781,
+    "sha256": "62a0a86af12a0aa98b887c2a0efd8aca7a1c5271b64f88f4fc1fc42ba853a43a"
+  },
+  {
+    "file": "来源说明/download_manifest_more.json",
+    "bytes": 6277,
+    "sha256": "addd0c7f82dfa5cf90c121588ec32be4b7efc0521be87f3199773351e57f1d26"
+  },
+  {
+    "file": "来源说明/FinanceIQ/README.md",
+    "bytes": 33,
+    "sha256": "8739f354b75bf1aa6310a0ffac9b7dcafed012c42b771947e48b7f4da8b9d800"
+  },
+  {
+    "file": "来源说明/FinCausal/Readme.md",
+    "bytes": 1584,
+    "sha256": "2046b4686a4c80e4a92ae853a5c36e99667c2d3be52687074b1474e011796040"
+  },
+  {
+    "file": "来源说明/FinCorpus.CN/LICENSE",
+    "bytes": 1094,
+    "sha256": "7735771cbaf9bbaedc38935d08ae54b0f9ea0891d910bff6bb99e63e0e0dd8bc"
+  },
+  {
+    "file": "来源说明/FinCorpus.CN/readme.md",
+    "bytes": 6945,
+    "sha256": "c0a55316ac6b5651cfd8295a8490a4e2ad32e1b8e10eccdcde6d2326c2fc4813"
+  },
+  {
+    "file": "来源说明/FIRE-Bench/LICENSE",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "来源说明/FIRE-Bench/README.md",
+    "bytes": 44232,
+    "sha256": "1077d0fd74767e42e61ebfa610417a4d53d1bbe95e35fcb7a74b5af58d619bbc"
+  },
+  {
+    "file": "来源说明/TigerBot-earning/README.md",
+    "bytes": 396,
+    "sha256": "0ede8ba0ed5ea7bd61f8e009e0284e709aa9b77d048b376920c18d691d7938e3"
+  },
+  {
+    "file": "来源说明/TigerBot-research/README.md",
+    "bytes": 391,
+    "sha256": "74b07089e01b6bb189a9305a8455855feae2ef59e9a1e6cb4382934a622bb21f"
+  },
+  {
+    "file": "来源说明/实际使用来源与版本.json",
+    "bytes": 5415,
+    "sha256": "b7a9e3042b66993dcd9e6200b9875238a06a02b07bf60a7e494e43ed420bf0a4"
+  },
+  {
+    "file": "来源说明/旧项目排除清单.json",
+    "bytes": 5616,
+    "sha256": "b24cd1297daa8ed648f1205c72542f29e5f6ff8277762471ac5f6fc5cbb97f63"
+  },
+  {
+    "file": "检查记录/交付数量.json",
+    "bytes": 195,
+    "sha256": "fb71806afda8fd58882f7ecd27c90f98210fc6fe3aaffdf7b9cfe3c333d5e98a"
+  },
+  {
+    "file": "检查记录/全量检查结果.json",
+    "bytes": 6635,
+    "sha256": "e9de271e579fdec90f0ee15ec66dd16711bb987176fc0286579d81466d22b993"
+  },
+  {
+    "file": "检查记录/原始文件与证据数量.json",
+    "bytes": 2890,
+    "sha256": "46fc51106e8b55c9ae31c3bdfa0bdc3f6fc3d47616508a31a475f4930862b51e"
+  },
+  {
+    "file": "检查记录/固定随机抽查样本.jsonl",
+    "bytes": 167420,
+    "sha256": "246bb1e9d041a935178f9ccfbe4eb6344fa5d6a83a2e74e3aae1a14b27b57bdf"
+  },
+  {
+    "file": "检查记录/文本处理统计.json",
+    "bytes": 1868,
+    "sha256": "25a13ea29595262fe41cb112aef454980c70bc60c7d335781bb5503f6cdd3baf"
+  },
+  {
+    "file": "检查记录/检查发现与处理.json",
+    "bytes": 1678,
+    "sha256": "32e39ca363c3c9e3c6b5e856108346aab2a171bde717f5e8a09d784fea548e51"
+  },
+  {
+    "file": "检查记录/知识题处理统计.json",
+    "bytes": 1315,
+    "sha256": "5bcedbb92de1e4a2723ef3047044cc473630db05e4569d629b4289b6a9f5da3a"
+  }
+]

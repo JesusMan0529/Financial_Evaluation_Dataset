@@ -1,0 +1,89 @@
+[
+  {
+    "source": "Ya-dongLi/CFSC",
+    "url": "https://raw.githubusercontent.com/Ya-dongLi/CFSC/3f0226161cf5266b87438c98a30418f65d5cd064/CFSC-NER/CFSC-NER-Alldata.json",
+    "file": "raw\\CFSC\\CFSC-NER\\CFSC-NER-Alldata.json",
+    "bytes": 6799647,
+    "sha256": "dacc22eb1059c7fa46b10e4cfdce6a47074ff91d4cc02370d544d8fef85304f5",
+    "status": "downloaded"
+  },
+  {
+    "source": "Ya-dongLi/CFSC",
+    "url": "https://raw.githubusercontent.com/Ya-dongLi/CFSC/3f0226161cf5266b87438c98a30418f65d5cd064/CFSC-ABSA/CFSC-ABSA-Alldata.json",
+    "file": "raw\\CFSC\\CFSC-ABSA\\CFSC-ABSA-Alldata.json",
+    "bytes": 18625434,
+    "sha256": "88a33fc0e5642a70d9aa5f6eb558ccb8515200cc56b5ca21c15d9e717da356e1",
+    "status": "downloaded"
+  },
+  {
+    "source": "Ya-dongLi/CFSC",
+    "url": "https://raw.githubusercontent.com/Ya-dongLi/CFSC/3f0226161cf5266b87438c98a30418f65d5cd064/README.md",
+    "file": "raw\\CFSC\\README.md",
+    "bytes": 5449,
+    "sha256": "accce3a0b0219c5364857c7246522d2bdc6014b18a31784d76fc24bddabcab68",
+    "status": "downloaded"
+  },
+  {
+    "source": "ygan/CFQA",
+    "url": "https://raw.githubusercontent.com/ygan/CFQA/61c9ec3c4335d0411a1735cd228af8b3ead114fc/dataset/split_by_company/split_by_company_train.json",
+    "file": "raw\\CFQA\\dataset\\split_by_company\\split_by_company_train.json",
+    "bytes": 3224914,
+    "sha256": "67c13264ed20601f4ace8004d575fb7e0b504a883d17fdb373c90deaa8c461da",
+    "status": "downloaded"
+  },
+  {
+    "source": "ygan/CFQA",
+    "url": "https://raw.githubusercontent.com/ygan/CFQA/61c9ec3c4335d0411a1735cd228af8b3ead114fc/dataset/split_by_company/split_by_company_dev.json",
+    "file": "raw\\CFQA\\dataset\\split_by_company\\split_by_company_dev.json",
+    "bytes": 448977,
+    "sha256": "54e814531104ce6932b83608bb16847a0f258b151b44fe60242dfdfd6f7f0ca6",
+    "status": "downloaded"
+  },
+  {
+    "source": "ygan/CFQA",
+    "url": "https://raw.githubusercontent.com/ygan/CFQA/61c9ec3c4335d0411a1735cd228af8b3ead114fc/dataset/split_by_company/split_by_company_test.json",
+    "file": "raw\\CFQA\\dataset\\split_by_company\\split_by_company_test.json",
+    "bytes": 995666,
+    "sha256": "e4c08332a1f6aada430ac94fe62106fd557c3d80cd68c495118412bb7704bc7d",
+    "status": "downloaded"
+  },
+  {
+    "source": "ygan/CFQA",
+    "url": "https://raw.githubusercontent.com/ygan/CFQA/61c9ec3c4335d0411a1735cd228af8b3ead114fc/README.md",
+    "file": "raw\\CFQA\\README.md",
+    "bytes": 6566,
+    "sha256": "3b0be1cbacfe0f4d2d085de579c16a15f4eb566cd0c806a3caaa0e009a3f417f",
+    "status": "downloaded"
+  },
+  {
+    "source": "ygan/CFQA",
+    "url": "https://raw.githubusercontent.com/ygan/CFQA/61c9ec3c4335d0411a1735cd228af8b3ead114fc/LICENSE",
+    "file": "raw\\CFQA\\LICENSE",
+    "bytes": 1061,
+    "sha256": "4e5a9270cfd7beef665b99c124262a0322e904bc7a9a0026a3ed61e9dfdd7f85",
+    "status": "downloaded"
+  },
+  {
+    "source": "zhiqix/FinCausal",
+    "url": "https://raw.githubusercontent.com/zhiqix/FinCausal/f74bd492d4510d605ffaefea403607d83878a2ef/FinCausal/%E9%93%B6%E8%A1%8C.csv",
+    "file": "raw\\FinCausal\\FinCausal\\银行.csv",
+    "bytes": 1141937,
+    "sha256": "4f99cdd25ba20549810152e661815a85001e721dc6138e403bd30732a75b7dc0",
+    "status": "downloaded"
+  },
+  {
+    "source": "zhiqix/FinCausal",
+    "url": "https://raw.githubusercontent.com/zhiqix/FinCausal/f74bd492d4510d605ffaefea403607d83878a2ef/FinCausal/%E9%9D%9E%E9%93%B6%E9%87%91%E8%9E%8D.csv",
+    "file": "raw\\FinCausal\\FinCausal\\非银金融.csv",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "source": "zhiqix/FinCausal",
+    "url": "https://raw.githubusercontent.com/zhiqix/FinCausal/f74bd492d4510d605ffaefea403607d83878a2ef/Readme.md",
+    "file": "raw\\FinCausal\\Readme.md",
+    "bytes": 1584,
+    "sha256": "2046b4686a4c80e4a92ae853a5c36e99667c2d3be52687074b1474e011796040",
+    "status": "downloaded"
+  }
+]
