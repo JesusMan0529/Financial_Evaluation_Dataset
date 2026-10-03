@@ -140,4 +140,4 @@ python -m unittest test_processing test_delivery_processing
 
 使用时请保留原数据来源和许可说明。CFLUE 数据集采用 CC BY-NC-SA 4.0，其他来源按各自许可使用；CFSC、FEED 的随包说明未给出明确的独立数据许可。本仓库的整理和发布不替代原数据权利人的授权。
 
-本项目开源，非商用，供个人或组织自行研究使用。
+数据集开源且非商用，供个人或组织自行研究使用。
